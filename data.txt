@@ -5,9 +5,13 @@ Now of course there can be commits done on master branch, while there are change
 
 Basically what i wanted to show was that if there are merge conflicts between merges, how can they be resolved and then the repository made clean. 
 
--Created by Sharath
+-Created by Sharath Madhuranath
 
 Chapter - 1 
 --------------
 There were a lot of people in the room that day for the git demo. I was feeling a bit nervous, because Chandan kept staring at me.
 Ok ok, that is fine, just want to demonstrate branches concepts to the team.
+
+Chapter-3
+-----------
+The trials and tribulations of writing code.
