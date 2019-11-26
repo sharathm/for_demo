@@ -10,3 +10,4 @@ Basically what i wanted to show was that if there are merge conflicts between me
 Chapter - 1 
 --------------
 There were a lot of people in the room that day for the git demo. I was feeling a bit nervous, because Chandan kept staring at me.
+Ok ok, that is fine, just want to demonstrate branches concepts to the team.
