@@ -1,0 +1,8 @@
+This file was created as part of a initial commit to demonstrate git capabilities.
+The specific topic covered here is conflicts.
+
+Now of course there can be commits done on master branch, while there are changes in the other branch. 
+
+Basically what i wanted to show was that if there are merge conflicts between merges, how can they be resolved and then the repository made clean. 
+
+-Created by Sharath
